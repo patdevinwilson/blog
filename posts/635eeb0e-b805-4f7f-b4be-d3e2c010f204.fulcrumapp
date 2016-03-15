@@ -52,9 +52,31 @@
         "min_length": null,
         "max_length": null,
         "default_previous_value": false
+      },
+      {
+        "type": "TextField",
+        "key": "74f6",
+        "label": "phone number",
+        "description": null,
+        "required": false,
+        "disabled": false,
+        "hidden": false,
+        "data_name": "phone_number",
+        "default_value": null,
+        "visible_conditions_type": null,
+        "visible_conditions": null,
+        "required_conditions_type": null,
+        "required_conditions": null,
+        "numeric": true,
+        "format": "integer",
+        "min": null,
+        "max": null,
+        "min_length": null,
+        "max_length": null,
+        "default_previous_value": false
       }
     ],
     "created_at": "2016-03-15T15:44:00Z",
-    "updated_at": "2016-03-15T15:44:00Z"
+    "updated_at": "2016-03-15T15:48:46Z"
   }
 }
