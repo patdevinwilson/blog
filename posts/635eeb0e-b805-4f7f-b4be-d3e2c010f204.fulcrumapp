@@ -103,9 +103,25 @@
         },
         "neutral_enabled": false,
         "default_previous_value": false
+      },
+      {
+        "type": "DateTimeField",
+        "key": "a524",
+        "label": "Date",
+        "description": null,
+        "required": false,
+        "disabled": false,
+        "hidden": false,
+        "data_name": "date",
+        "default_value": null,
+        "visible_conditions_type": null,
+        "visible_conditions": null,
+        "required_conditions_type": null,
+        "required_conditions": null,
+        "default_previous_value": false
       }
     ],
     "created_at": "2016-03-15T15:44:00Z",
-    "updated_at": "2016-03-15T15:56:16Z"
+    "updated_at": "2016-03-15T15:58:15Z"
   }
 }
